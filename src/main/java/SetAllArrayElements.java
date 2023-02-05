@@ -26,7 +26,9 @@ public class SetAllArrayElements {
         for ( int i = 0; i < arr.length; i++){
             // use the iterator i (which also starts at 0) to aline with the indexes in array arr
             arr[i] = n;
+            
         }
+        
 
     }
 }
